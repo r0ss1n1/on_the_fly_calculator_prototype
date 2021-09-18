@@ -12,7 +12,7 @@
 using std::cout;
 using std::cin;
 using std::endl;
-/* Charles THomas Wallace Truscott Watters. Staying up late to work on a silly, on-the-fly calculator cmdlet */
+/* Charles Thomas Wallace Truscott Watters. Staying up late to work on a silly, on-the-fly calculator cmdlet */
 /* 4:00 A.M. 9/18/2021 then sleep until */
 /* 9:05 A.M. 9/19/2021 */
 /* Need to implement an array or pointer of / to arithmetic structures */
